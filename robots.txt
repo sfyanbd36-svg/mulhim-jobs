@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sfyanbd36-svg.github.io/mulhim-jobs/sitemap.xml
